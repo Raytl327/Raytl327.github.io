@@ -1,6 +1,4 @@
 <script>
-   
-    
     const projetos = [
       {
         titulo: "Projeto 1",
