@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-sm bg-body-tertiary">
     <div class="container-fluid">
         <a class="navbar-brand" href="/#">
-            <img src="/favicon.png" alt="Logo" width="24" height="24" />
+            <img src="https://logowik.com/content/uploads/images/adobe-portfolio8664.jpg" alt="Logo" width="24" height="24" />
             DW4
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,43 +14,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="/1b/filmes">Filmes</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/portifolio">Portifólio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/compras">Compras</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/temperatura">Temperatura</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/boletim">Boletim</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/personalizacao">Personalização</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/reatividade">Reatividade</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/cartas">Cartas</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/coelhos">Coelhos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/custo-carro">Carro</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/checkbox">Checkbox</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/objetos">Objetos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/1b/sobre">Sobre</a>
+                    <a class="nav-link" href="/portifolio">Portifólio</a>
                 </li>
             </ul>
         </div>
